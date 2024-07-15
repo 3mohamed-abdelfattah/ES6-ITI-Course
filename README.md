@@ -4,3 +4,4 @@
 ## CH3
 
 [Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) 
+![image](https://github.com/user-attachments/assets/a9fe1081-9d9e-4ea0-8944-1e092c2eebe2)
