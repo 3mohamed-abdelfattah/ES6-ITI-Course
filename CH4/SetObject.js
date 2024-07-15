@@ -1,0 +1,10 @@
+var mySet = new Set();
+mySet.add(1);
+mySet.add(2);
+mySet.add("Hello");
+console.log(mySet);
+console.log(mySet.has(1));
+mySet.delete(2);
+console.log(mySet);
+console.log(mySet.clear());
+console.log(mySet);
