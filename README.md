@@ -50,5 +50,5 @@
 ![image](https://github.com/user-attachments/assets/ca171417-3958-4e49-ac1e-464d9b03c347)
 
 
-[Array.protoype.flat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
-[Array.protoype.flatMap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
+- [Array.protoype.flat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
+- [Array.protoype.flatMap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
