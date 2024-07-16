@@ -49,6 +49,7 @@
 
 ![image](https://github.com/user-attachments/assets/ca171417-3958-4e49-ac1e-464d9b03c347)
 
+![image](https://github.com/user-attachments/assets/a4ae79df-a15d-41f4-8409-2b4990769071)
 
 - [Array.protoype.flat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 - [Array.protoype.flatMap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
